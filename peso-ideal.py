@@ -12,4 +12,3 @@ else:
     peso = (62.1 * alt) - 44.7
 
 print('O peso ideal é: ', peso)
-

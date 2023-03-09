@@ -15,5 +15,3 @@ if mediaFinal >= 5:
 else:
     print('Aluno reprovado com média final de', mediaFinal)
 
-
-
