@@ -1,5 +1,5 @@
 
-t = eval(input('Digite a temperatura atual:'))
+t = eval(input('Enter the current temperature:'))
 
 def temperature(t):
     if t > 32 and t < 86:
